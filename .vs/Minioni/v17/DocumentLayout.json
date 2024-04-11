@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-4\\Desktop\\11d\\Minioni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB3BF0D-D26D-4724-AD7A-5CB1FB39B6A9}|Minioni\\Minioni.csproj|c:\\users\\students-1212-4\\desktop\\11d\\minioni\\minioni\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB3BF0D-D26D-4724-AD7A-5CB1FB39B6A9}|Minioni\\Minioni.csproj|solutionrelative:minioni\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB3BF0D-D26D-4724-AD7A-5CB1FB39B6A9}|Minioni\\Minioni.csproj|C:\\Users\\STUDENTS-1212-4\\Desktop\\11d\\Minioni\\minioni\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECB3BF0D-D26D-4724-AD7A-5CB1FB39B6A9}|Minioni\\Minioni.csproj|solutionrelative:minioni\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB3BF0D-D26D-4724-AD7A-5CB1FB39B6A9}|Minioni\\Minioni.csproj|C:\\Users\\STUDENTS-1212-4\\Desktop\\11d\\Minioni\\minioni\\comboitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB3BF0D-D26D-4724-AD7A-5CB1FB39B6A9}|Minioni\\Minioni.csproj|solutionrelative:minioni\\comboitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComboItem.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-4\\Desktop\\11d\\Minioni\\Minioni\\ComboItem.cs",
+              "RelativeDocumentMoniker": "Minioni\\ComboItem.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-4\\Desktop\\11d\\Minioni\\Minioni\\ComboItem.cs",
+              "RelativeToolTip": "Minioni\\ComboItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:28:16.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-4\\Desktop\\11d\\Minioni\\Minioni\\Form1.cs",
+              "RelativeDocumentMoniker": "Minioni\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-4\\Desktop\\11d\\Minioni\\Minioni\\Form1.cs*",
+              "RelativeToolTip": "Minioni\\Form1.cs*",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:02:52.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-4\\Desktop\\11d\\Minioni\\Minioni\\Form1.cs",
+              "RelativeDocumentMoniker": "Minioni\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-4\\Desktop\\11d\\Minioni\\Minioni\\Form1.cs [Design]*",
+              "RelativeToolTip": "Minioni\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:33:38.605Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
